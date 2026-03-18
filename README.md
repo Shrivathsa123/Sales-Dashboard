@@ -55,12 +55,4 @@ This project presents an interactive sales dashboard built using **Microsoft Pow
 
 ---
 
-## 📌 Use Cases
-
-* Business performance tracking
-* Sales trend analysis
-* Customer behavior insights
-* Data-driven decision making
----
-
 
